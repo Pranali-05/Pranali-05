@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranali</h1>
 <h3 align="center">Passionate Data Analyst | Exploring the World of Data</h3>
 
-- I'm skilled in Excel, Power BI, SQL & Python**
+- I'm skilled in Excel, Power BI, SQL & Python, Statistics
 
 - 👨‍💻 All of my projects are available at [https://667b909676cc4bc9d1b993dd--famous-florentine-06f7b0.netlify.app/](https://667b909676cc4bc9d1b993dd--famous-florentine-06f7b0.netlify.app/)
 
