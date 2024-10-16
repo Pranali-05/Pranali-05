@@ -16,7 +16,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranali-05&show_icons=true&locale=en&layout=compact" alt="pranali-05" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranali-05&show_icons=true&locale=en" alt="pranali-05" /></p>
-
